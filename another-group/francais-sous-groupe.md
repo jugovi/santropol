@@ -1,4 +1,6 @@
 # francais sous groupe
 
-asdf
+{% page-ref page="francais-sous-groupe.md" %}
+
+[https://www.facebook.com](https://www.facebook.com)
 
